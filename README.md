@@ -21,7 +21,7 @@
 <br>
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricaringatheme=nord&title_color=BCAE77)](https://github.com/ricaringa/ricaringa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricaringa&theme=nord&title_color=BCAE77)](https://github.com/ricaringa/ricaringa)
 [![Here are a few stats about me](https://github-readme-stats.vercel.app/api?username=ricaringa&theme=nord&title_color=BCAE77)](https://github.com/ricaringa/ricaringa)
 
 ## 💼 Skills
